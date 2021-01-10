@@ -1,0 +1,23 @@
+.homepage {
+  color: #fff;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #0d0e0e;
+}
+
+.start-button {
+  background: #00ff84;
+  border: 3px solid transparent;
+}
+
+.btn {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  border-radius: 0.5rem !important;
+  border: none;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #0d0e0e;
+  -webkit-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
